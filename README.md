@@ -21,7 +21,8 @@ O objetivo deste projeto é explorar a integração entre **Terraform** e **Dock
 ├── main.tf          # Configuração principal do Terraform
 ├── providers.tf     # Configuração do provider Docker
 ├── variables.tf     # Variáveis do projeto (opcional)
-├── outputs.tf       # Saídas do Terraform (opcional)
+├── outputs.tf       # Saídas do
+Terraform
 └── README.md
 ```
 
@@ -72,35 +73,10 @@ Confirme a execução digitando:
 yes
 ```
 
-## 🧹 Removendo a Infraestrutura
-
-Para destruir os recursos criados:
-
-```bash
-terraform destroy
-```
-
 ## 📚 Conceitos Praticados
 
 * Infraestrutura como Código (IaC)
 * Provisionamento automatizado
 * Gerenciamento de containers Docker
 * Uso de Providers no Terraform
-* Versionamento de infraestrutura
-
-## 🎯 Próximos Passos
-
-* Adicionar variáveis para personalização do container;
-* Criar múltiplos containers com Terraform;
-* Utilizar volumes e redes Docker;
-* Implementar módulos Terraform;
-* Integrar o projeto com pipelines de CI/CD.
-
-## 🤝 Contribuições
-
-Este é um projeto de estudos. Sugestões e melhorias são bem-vindas.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
 
