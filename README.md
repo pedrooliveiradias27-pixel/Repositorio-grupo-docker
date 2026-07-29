@@ -40,13 +40,13 @@ Antes de executar o projeto, certifique-se de possuir:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+https://github.com/pedrooliveiradias27-pixel/Repositorio-grupo-docker.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd nome-do-repositorio
+cd Repositorio-grupo-docker
 ```
 
 ### 3. Inicialize o Terraform
